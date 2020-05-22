@@ -9,6 +9,11 @@ $  sudo nano nginx.conf
 ```
 
 ### Commands
-* sudo nginx            # start
-* sudo nginx -s stop    # stop
-* sudo nginx -s reload  # apply changes
+#### start
+$ sudo nginx
+
+#### stop
+$ sudo nginx -s stop
+
+#### apply changes
+$ sudo nginx -s reload
