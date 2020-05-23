@@ -1,6 +1,6 @@
 # nginx-examples
 
-### Edit nginx config file
+### Edit *nginx.conf* file
 ```sh
 $  sudo find / -name "nginx.conf"
 $  cd /etc/nginx/ 
